@@ -2,6 +2,15 @@
 
 Trepa is an innovative prediction platform that rewards users based on the **precision** of their forecasts, rather than just a binary "right" or "wrong" outcome. It encourages nuanced thinking and analytical skill, allowing users to express their confidence levels and earn proportionally to how close their predictions are to reality.
 
+## 🌐 Live Project
+
+**View it live here:**  
+[https://ghostiemoh.github.io/projects/Trepa.html](https://ghostiemoh.github.io/projects/Trepa.html)
+
+## 🐦 Twitter Post
+
+**Check it out on Twitter:**  
+[https://x.com/ghostiemoh/status/1936167623466582155?s=46](https://x.com/ghostiemoh/status/1936167623466582155?s=46)
 ---
 
 ## Features
