@@ -1,4 +1,3 @@
-```
 # Trepa | Precision Predictions
 
 Trepa is an innovative prediction platform that rewards users based on the **precision** of their forecasts, rather than just a binary "right" or "wrong" outcome. It encourages nuanced thinking and analytical skill, allowing users to express their confidence levels and earn proportionally to how close their predictions are to reality.
@@ -19,14 +18,10 @@ Trepa is an innovative prediction platform that rewards users based on the **pre
 
 ## Technologies Used
 
-* **HTML5**: Structure of the web page.
+* **HTML5**: Structures the web page content.
 * **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-* **JavaScript**: Powers the interactive elements, including:
-    * Reward calculation logic.
-    * Dynamic updates for the prediction card and calculator.
-    * FAQ accordion functionality.
-    * Mobile navigation toggle.
-* **Font Awesome**: Icons used throughout the design.
+* **JavaScript**: Powers the interactive elements, including reward calculations, dynamic updates for prediction cards and the calculator, FAQ accordion functionality, and the mobile navigation toggle.
+* **Font Awesome**: Provides the icons used throughout the design.
 
 ---
 
@@ -53,11 +48,11 @@ Trepa operates on a simple yet powerful principle:
 
 ## Project Structure
 
-The project is a single HTML file, `index.html`, which includes:
+The project is a single `index.html` file, which includes:
 
 * **Header**: Navigation bar with logo, links, and beta access button.
 * **Hero Section**: Main call to action with a sample prediction card demonstrating the slider and potential reward.
-* **Trust Section**: Displays logos of platforms that "trust" Trepa (placeholder).
+* **Trust Section**: Displays placeholder logos of platforms that "trust" Trepa.
 * **How It Works Section**: Explains the core mechanics of the platform in three simple steps.
 * **Why Trepa Section**: Compares Trepa's precision-based approach to traditional binary prediction methods.
 * **Reward Calculator Section**: An interactive tool for users to experiment with predictions, outcomes, and stakes to see potential rewards.
@@ -88,4 +83,3 @@ As this is a basic frontend demo, direct contributions in the form of pull reque
 ## License
 
 This project is open-source and available under the MIT License.
-```
